@@ -1,0 +1,36 @@
+reviewer,criterion,score (1-5),comments
+r1,concept,5,The concept is clear and easy to understand from the poster. The supporting information and key specifications help communicate what the Nano Reactor is and its purpose.
+r1,craft,5,"The composition is well balanced and has a clear visual hierarchy. The typography works well, and the yellow light in the background helps the product stand out. Overall, the visual elements work well together."
+r1,ethics,5,The poster does not present any significant ethical concerns. It communicates the product's safety and environmental benefits clearly without making the ethical aspect feel unnecessary or forced.
+r1,accessibility,4.5,"The text is generally readable and the visual hierarchy is clear. However, the small text at the bottom is a bit difficult to read and could be made more visible."
+r1,originality,5,The nano reactor concept feels original and the visual style supports the futuristic idea well. The overall presentation is distinctive and memorable.
+r2,concept,5,"A relevant, concise concept: an advanced small reactor for AI centers, which directly relates to the discussions in the world about AI energy needs."
+r2,craft,5,"Technology layout with minimalism and good use of icons and statistics (3.2 MW, 8 year core life, safe to walk away from, zero operational carbon emissions)."
+r2,ethics,2,"The claims of being ""walk-away safe"" and having ""zero op. carbon"" for a nuclear product are impressive safety and environmental claims without any evidence at all. Such claims must be proved due to their high stakes."
+r2,accessibility,4,Text color vs background is good in contrast; the sans-serif font style combined with icons used for statistics helps in making it an easy-to-scan layout.
+r2,originality,4,An SMR design that targets AI applications could be a more recent angle compared to many other proposals because it would be capitalizing on a current trend.
+r3,concept,4,"Timely and plausible: a compact 'walk-away safe' nuclear module powering the data centers 'behind the age of AI.' The value proposition (3.2 MW continuous, 8-yr core life, zero operating carbon) is specific and well-argued, and the AI-era framing makes it feel current and relevant.
+
+The product look is industrial, perhaps could look sleek like newer products today in the tech field."
+r3,craft,4,"Clean, modern product-poster system with a convincing glowing-core render with rising steam
+
+Simple and tidy four-stat layout. Professional overall 
+
+Some resembalance to an Apple hardware ad."
+r3,ethics,3,"This is the most ethics-sensitive piece: it presents strong, unqualified safety and environmental claims ('walk-away safe,' 'clean,' 'zero op. carbon') about nuclear power as marketing copy. That edges toward greenwashing. Recommend flagging these as speculative in the writeup and, ideally, tempering absolute claims on the artifact."
+r3,accessibility,4,"Generally the strongest accessibility compared to all prototypes.
+
+White headline on dark sky has good contrast and the stat blocks are well spaced. Watch the grey small-caps labels ('CONTINUOUS,' 'CORE LIFE') and any text crossing the lighter horizon band, which dip a bit in contrast.
+
+text at the bottom of the poster looks slightly distorted, such as the 'N2-114' or 'nanozeactor.io'"
+r3,originality,4,"A pocket nuclear reactor is a cool concept, kind of resembles iron-mans energy source in his chest."
+r4,concept,5,The concept is very clear and easy to understand. The poster effectively presents a compact nuclear reactor designed to provide clean energy for AI data centers. The key features and purpose of the product are communicated immediately.
+r4,craft,5,"The poster is visually polished and well organized. The central product image creates a strong focal point, while the text and specifications are placed clearly around it. The colour palette, spacing, typography, and overall composition work well together without making the poster feel overcrowded."
+r4,ethics,4,"There are no concerns related to human representation. However, claims such as “Walk-away safe,” “Zero operational carbon,” and the framing of nuclear power as “clean” are strong claims that could benefit from additional context or evidence. Since the product involves nuclear technology, clearly communicating potential risks and limitations would make the advertisement more balanced and responsible."
+r4,accessibility,4,"The main headline and key information are easy to read, with a clear visual hierarchy. However, some of the smaller grey text and technical labels have lower contrast against the background and may be more difficult to read. Increasing their size or contrast would improve accessibility."
+r4,originality,4,"The concept of a compact nuclear reactor specifically designed to power AI data centers is creative and relevant. The product visualization is effective, although the overall futuristic technology-advertisement style is somewhat familiar. A more distinctive visual approach could make it feel even more original."
+r5,concept,4,A compact nuclear reactor for data centers is a bold and forward?thinking clean?energy concept.
+r5,craft,4,The poster is visually strong with high?fidelity rendering and clear technical text.
+r5,ethics,4,The Artwork does not seem to have violated any ethical considaration.
+r5,accessibility,4,Clear contrast and structured layout make technical details easy to follow.
+r5,originality,3,The industrial sci?fi aesthetic resembles familiar design tropes.

@@ -1,0 +1,20 @@
+# ── macOS ──
+.DS_Store
+
+# ── Heavy media: kept OUT of the repo to stay light. ──
+# The logs + source_history_links.md preserve the full trail; the final
+# video is on YouTube. Raw generation media is linked, not committed.
+*.mov
+3_output_resource/video_clips/
+3_output_resource/audio/
+3_output_resource/poster_iterations/
+
+# ── Third-party copyrighted references: DO NOT redistribute. ──
+# These are linked by URL in the logs instead (see PROVENANCE_METHOD.md).
+3_output_resource/reference/
+
+# ── Editable/binary duplicates of the report (keep .md + .pdf only) ──
+Nano_Reactor_Portfolio_Report.docx
+
+# ── Internal working file (optional to keep) ──
+_TODO_CHECKLIST.md

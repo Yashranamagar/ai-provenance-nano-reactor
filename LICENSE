@@ -1,0 +1,40 @@
+Nano Reactor — Capstone Portfolio & Provenance Toolkit
+Copyright (c) 2026 Yash Ranamagar
+
+This repository mixes two kinds of content with two different licenses.
+Read this before reusing anything.
+
+====================================================================
+1. METHOD, DOCUMENTATION, TEMPLATES, AND LOGS  —  CC BY 4.0
+====================================================================
+The reusable parts authored by the repository owner — including
+PROVENANCE_METHOD.md, everything in provenance-toolkit/, the CSV log
+files and their structure, the README, and the written
+notes/reflection documents — are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt these for any purpose, including commercially,
+provided you give appropriate credit.
+Full text: https://creativecommons.org/licenses/by/4.0/
+
+====================================================================
+2. AI-GENERATED ASSETS  —  ALL RIGHTS RESERVED (see provenance)
+====================================================================
+The generated media (poster, video, voiceover, music, images and
+their iterations) are provided ONLY as an academic demonstration of
+the method above. They are NOT openly licensed. Any rights in these
+outputs are governed by the Terms of Service of the tool that
+generated each one (Claude Design, Google Flow, ElevenLabs, Suno) —
+see 2_data_templates/ethical_licensing_audit.csv for the per-asset
+status. Note in particular that the music track was generated on a
+non-commercial plan. Do not reuse these assets commercially.
+
+====================================================================
+3. THIRD-PARTY REFERENCE MATERIAL  —  NOT INCLUDED
+====================================================================
+Copyrighted reference images used only for inspiration (e.g. the DJI
+poster, book/website screenshots) are intentionally NOT redistributed
+in this repository. They are linked by URL in the logs instead.
+
+This is not legal advice. For any commercial use, confirm each tool's
+current Terms of Service and consult a professional.
